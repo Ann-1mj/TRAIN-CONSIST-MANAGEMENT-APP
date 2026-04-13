@@ -1,6 +1,6 @@
 import java.util.LinkedHashSet;
 
-public class UC5 {
+public class UC6 {
     public static void main(String[] args) {
 
         System.out.println("=== Train Formation using LinkedHashSet ===");
